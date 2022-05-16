@@ -1,0 +1,5 @@
+project: jbgreenh/faup
+target: faup
+
+cmds:
+  - cmd: /faup/build/src/tools/faup
